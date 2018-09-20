@@ -15,7 +15,7 @@ Kanto localiza-se a leste de Johto; presumivelmente, eles formam um pequeno cont
 Fonte: Wikipédia: https://pt.wikipedia.org/wiki/Kanto_(Pok%C3%A9mon)**
 
 
-Imagem
+![alt text](https://github.com/paulovpcotta/pokemon-udacity-final/blob/master/data/1.png "Tabela inicial com 5 dados")
 
 
 Agora o problema em nossa mão é que, dado alguns recursos sobre cada Pokemon, como seu ataque, defesa ou seu valor de velocidade, etc, precisamos prever o vencedor de uma batalha Pokemon aleatória que nunca ocorreu antes.
@@ -43,7 +43,7 @@ Em seguida, calculamos a precisão de nosso classificador, que é de 65% (signif
 
 Até agora, concluímos todas as etapas necessárias desde a criação de um classificador até o treinamento e agora será testado efetuando uma batalha Pokémon.
 
-Imagem
+![alt text](https://github.com/paulovpcotta/pokemon-udacity-final/blob/master/data/2.png "Acurácia dos dados treinados")
 
 
 #### Processo explicativo da predição
@@ -51,7 +51,7 @@ Imagem
 As duas colunas correspondem aos Pokémon que vão competir. Será alimentado esses dois Pokemon no classificador e ele retornará o vencedor mais provável para essa batalha. Lembre-se de que o classificador não está apenas predizendo aleatoriamente o vencedor. Na verdade, ele está analisando vários parâmetros cuidadosamente para chegar à decisão correta.
 
 
-Imagem
+![alt text](https://github.com/paulovpcotta/pokemon-udacity-final/blob/master/data/3.png "Saída de algumas batalhas")
 
 
 ## Conclusão
